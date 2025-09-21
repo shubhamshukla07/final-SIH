@@ -2,6 +2,6 @@ streamlit
 torch
 torchvision
 numpy
-pillow
-
+Pillow
 git+https://github.com/openai/CLIP.git
+
